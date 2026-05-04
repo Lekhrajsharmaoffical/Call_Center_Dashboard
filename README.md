@@ -1,1 +1,2 @@
 # Call_Center_Dashboard
+This repository contains a Call Centre Dataset with 1,000 call records from a customer service operation spanning the fiscal year 2023. The dataset covers three cities in Ohio — Cincinnati, Cleveland, and Columbus — and tracks performance across 5 sales representatives and 15 customers. It is ideal for sales performance analysis, customer satisfaction research, and call centre optimization projects.
